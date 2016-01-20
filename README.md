@@ -1,0 +1,3 @@
+# Machine Learning Specialization 
+
+This repo contains all my material for the University of Washington's Machine Learning Specialization offered through Coursera. This includes the lecture notes, assignments (written using ipython notebook) and the capstone. Does not include the data (*.gl/ folders) as these are too large for git to store. It is still a work in progress though, tentative completion is April 2016.
