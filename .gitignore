@@ -8,6 +8,8 @@ course_1/image_classification/image_train_data/
 course_1/recommender_systems/song_data.gl
 course_1/sentiment_analysis/amazon_baby.gl
 
+course_2/assignweek*/kc_house_data.gl
+
 # OS generated files #
 ######################
 .DS_Store
