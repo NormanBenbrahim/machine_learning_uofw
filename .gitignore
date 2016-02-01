@@ -10,6 +10,8 @@ course_1/sentiment_analysis/amazon_baby.gl
 
 course_2/assignweek*/kc_house_data.gl
 
+*.ipynb_checkpoints/
+
 # OS generated files #
 ######################
 .DS_Store
