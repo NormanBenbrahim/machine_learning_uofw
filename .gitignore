@@ -9,6 +9,7 @@ course_1/recommender_systems/song_data.gl
 course_1/sentiment_analysis/amazon_baby.gl
 
 course_2/assignweek*/kc_house_data.gl
+course_2/assignweek6/kc_house_data_small.gl/
 
 *.ipynb_checkpoints/
 
